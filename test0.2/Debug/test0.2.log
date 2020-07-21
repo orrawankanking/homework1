@@ -1,0 +1,4 @@
+﻿  test2.cpp
+C:\Users\bellorrawan\source\repos\test0.2\test0.2\test2.cpp(5,11): warning C4101: 'B': unreferenced local variable
+C:\Users\bellorrawan\source\repos\test0.2\test0.2\test2.cpp(5,8): warning C4101: 'A': unreferenced local variable
+  test0.2.vcxproj -> C:\Users\bellorrawan\source\repos\test0.2\Debug\test0.2.exe
